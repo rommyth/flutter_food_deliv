@@ -11,4 +11,4 @@ Teknonlogi yang digunakan pada fitur ini berupa:
 -   Flutter
 -   State Management Provider
 
-![alt text](https://github.com/rommyth/flutter_food_deliv/blob/main/image_app.png?raw=true)
+![alt text](https://github.com/rommyth/flutter_food_deliv/blob/main/lib/images/image_app.png?raw=true)
