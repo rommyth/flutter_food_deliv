@@ -1,16 +1,14 @@
-# flu_5_food_delivery
+# Food Delivery App
 
-A new Flutter project.
+Created Using Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ini merupakan aplikasi Food Delivery yang dibuat menggunakan Flutter, dan fitur yang dibuat adalah halaman login, halaman produk, detail produk, keranjang, pembayaran, dan invoice.
 
-A few resources to get you started if this is your first Flutter project:
+Teknonlogi yang digunakan pada fitur ini berupa:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-   Flutter
+-   State Management Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/rommyth/flutter_food_deliv/blob/main/image_app.png?raw=true)
